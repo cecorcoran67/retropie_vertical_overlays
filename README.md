@@ -7,4 +7,6 @@ The CoinOPS Project without their source material this would not have been possi
 Special shoutout to the team over there BritneysPAIRS, Pipmick and of course gjsmsmith who created much of the art used in making the overlays.
 
 ## Usage
+It's always a good idea to make a backup before changing your build.  So do that now!
+
 Copy the files to the appropriate folders and restart emulation station.
