@@ -1,1 +1,0 @@
-Install these overlays after installing the other and the games that support bezels will be updates.  You need to copy both the Bezel/Arcade and Bezel/Overlays otherwise the game wont display correctly. 
